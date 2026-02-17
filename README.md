@@ -109,13 +109,6 @@ Priority channels:
 
 Target: Engage 50–60% of help-seeking individuals within 2 years.
 
-## Repository Structure
-
-- `Executive_Report.pdf` – Policy-level summary  
-- `Technical_Appendix.pdf` – Statistical modelling & full analysis  
-- `code/` – Logistic regression & analysis scripts  
-- `visuals/` – Charts and model diagnostics  
-
 ## Skills Demonstrated
 
 - Logistic regression modelling  
@@ -127,7 +120,7 @@ Target: Engage 50–60% of help-seeking individuals within 2 years.
 - Resource allocation modelling  
 - Population impact forecasting  
 
-## 🧠 Project Positioning
+## Project Positioning
 
 This project demonstrates the ability to apply statistical modelling to complex social issues and translate quantitative findings into structured, evidence-based public policy strategy.
 
